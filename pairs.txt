@@ -1,0 +1,32 @@
+# Parejas para batch_nst.py  ->  una por linea:  <contenido> <estilo>
+# Validadas contra el disco el 2026-05-28. De las 26 que diste:
+#   - 24 quedan ACTIVAS abajo (todas leen y escriben bien con OpenCV; probado).
+#   - 4 traian la extension equivocada y las corregi (el estilo SI existe):
+#       estiloVanGogh.png  -> estiloVanGogh.jpg   (con Calvo y con UnalMed)
+#       estiloWreck.jpg    -> estiloWreck.png     (con Nube)
+#       estiloCubismo.jpeg -> estiloCubismo.png   (con Monet)
+#   - 2 de contenidoMontaña.jpeg quedan FUERA (comentadas al final): la 'n~' rompe
+#     cv.imread/cv.imwrite en Windows -> probado, NO lee ni escribe. Para usarlas,
+#     renombra el archivo sin tilde a contenidoMontana.jpeg y descomenta esas 2.
+#
+# Lineas vacias y las que empiezan con # se ignoran.  Corre con:  python batch_nst.py
+
+
+
+# --- FUERA por la 'n~' (renombra contenidoMontaña.jpeg -> contenidoMontana.jpeg y descomenta) ---
+# contenidoMontana.jpeg estiloWreck.png
+# contenidoMontana.jpeg estiloEvangelion.png
+
+
+contenidoAlemania.jpg estiloDibujo.jpeg
+contenidoArbol46.jpeg estiloDibujo.jpeg
+contenidoArbolRosa.jpeg estiloDibujo.jpeg
+contenidoATARRAIA.jpeg estiloDibujo.jpeg
+contenidoCalvo.jpeg estiloDibujo.jpeg
+contenidoColombia.jpeg estiloDibujo.jpeg
+contenidoMonet.png estiloDibujo.jpeg
+contenidoMontana.jpeg estiloDibujo.jpeg
+contenidoNube.jpeg estiloDibujo.jpeg
+contenidoPetiteJuana.jpeg estiloDibujo.jpeg
+contenidoUnalMed.png estiloDibujo.jpeg
+c1.jpg estiloDibujo.jpeg

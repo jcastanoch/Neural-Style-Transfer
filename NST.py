@@ -160,7 +160,7 @@ def neural_style_transfer(config):
     target_content_representation = content_img_set_of_feature_maps[content_feature_maps_index_name[0]].squeeze(axis=0)
     target_style_representation = [gram_matrix(x) for cnt, x in enumerate(style_img_set_of_feature_maps) if cnt in style_feature_maps_indices_names[0]]
     target_representations = [target_content_representation, target_style_representation]
-    num_of_iterations = 1000
+    num_of_iterations = 450
     
     optimizer = LBFGS((optimizing_img,), max_iter=num_of_iterations, line_search_fn='strong_wolfe')
     cnt = 0
@@ -181,8 +181,8 @@ def neural_style_transfer(config):
     return dump_path
 
 PATH = ''
-CONTENT_IMAGE = 'c1.jpg'
-STYLE_IMAGE = 's1.jpg'
+CONTENT_IMAGE = 'contenidoUnalMed.png'
+STYLE_IMAGE = 'estiloCubismo.png'
 
 default_resource_dir = os.path.join(PATH, 'data')
 content_images_dir = os.path.join(default_resource_dir, 'content-images')
@@ -190,7 +190,7 @@ style_images_dir = os.path.join(default_resource_dir, 'style-images')
 output_img_dir = os.path.join(default_resource_dir, 'output-images')
 img_format = (4, '.jpg')
 
-optimization_config = {'content_img_name': CONTENT_IMAGE, 'style_img_name': STYLE_IMAGE, 'height': 400, 'content_weight': 100000.0, 'style_weight': 30000.0, 'tv_weight': 1.0}
+optimization_config = {'content_img_name': CONTENT_IMAGE, 'style_img_name': STYLE_IMAGE, 'height': 400, 'content_weight': 100000.0, 'style_weight': 300000000.0, 'tv_weight': 1.0}
 optimization_config['content_images_dir'] = content_images_dir
 optimization_config['style_images_dir'] = style_images_dir
 optimization_config['output_img_dir'] = output_img_dir

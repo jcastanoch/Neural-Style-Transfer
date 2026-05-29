@@ -1,0 +1,22 @@
+C:\Users\user\AppData\Roaming\Python\Python313\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+C:\Users\user\AppData\Roaming\Python\Python313\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=VGG19_Weights.IMAGENET1K_V1`. You can also use `weights=VGG19_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Using VGG19 in the optimization procedure.
+L-BFGS | iteration: 000, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 001, total loss=375022662952419328.0000, content_loss=     94.5549, style loss=375022656000000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 002, total loss=375022628592680960.0000, content_loss=     75.9404, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 003, total loss=375022628592680960.0000, content_loss=     56.6809, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 004, total loss=375022662952419328.0000, content_loss=     30.1139, style loss=375022656000000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 005, total loss=375022662952419328.0000, content_loss=      9.9513, style loss=375022656000000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 006, total loss=375022662952419328.0000, content_loss=      2.8690, style loss=375022656000000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 007, total loss=375022662952419328.0000, content_loss=      1.0590, style loss=375022656000000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 008, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 009, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 010, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 011, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 012, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 013, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 014, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 015, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000
+L-BFGS | iteration: 016, total loss=375022628592680960.0000, content_loss=      0.0000, style loss=375022617600000000.0000, tv loss=32072954.0000

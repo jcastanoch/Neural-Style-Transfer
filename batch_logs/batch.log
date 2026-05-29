@@ -1,0 +1,80 @@
+[2026-05-28 23:46:18] ############### BATCH START - 0 parejas ###############
+[2026-05-28 23:46:18] No hay parejas validas en el txt. Nada que hacer.
+[2026-05-29 00:00:33] ############### BATCH START - 24 parejas ###############
+[2026-05-29 00:00:33] === [1/24] contenido=contenidoPetiteJuana.jpeg  estilo=estiloCubismo.png ===
+[2026-05-29 00:01:02] [OK] 0:00:28 -> data\output-images\combined_contenidoPetiteJuana_estiloCubismo\contenidoPetiteJuana_estiloCubismo.jpg
+[2026-05-29 00:01:02] === [2/24] contenido=contenidoPetiteJuana.jpeg  estilo=s1.jpg ===
+[2026-05-29 00:01:31] [OK] 0:00:28 -> data\output-images\combined_contenidoPetiteJuana_s1\contenidoPetiteJuana_s1.jpg
+[2026-05-29 00:01:31] === [3/24] contenido=contenidoPetiteJuana.jpeg  estilo=estiloMickey.webp ===
+[2026-05-29 00:02:00] [OK] 0:00:28 -> data\output-images\combined_contenidoPetiteJuana_estiloMickey\contenidoPetiteJuana_estiloMickey.jpg
+[2026-05-29 00:02:00] === [4/24] contenido=contenidoCalvo.jpeg  estilo=estiloMickey.webp ===
+[2026-05-29 00:02:28] [OK] 0:00:28 -> data\output-images\combined_contenidoCalvo_estiloMickey\contenidoCalvo_estiloMickey.jpg
+[2026-05-29 00:02:28] === [5/24] contenido=contenidoCalvo.jpeg  estilo=estiloFractal.png ===
+[2026-05-29 00:02:47] [OK] 0:00:19 -> data\output-images\combined_contenidoCalvo_estiloFractal\contenidoCalvo_estiloFractal.jpg
+[2026-05-29 00:02:47] === [6/24] contenido=contenidoCalvo.jpeg  estilo=estiloVanGogh.jpg ===
+[2026-05-29 00:03:16] [OK] 0:00:28 -> data\output-images\combined_contenidoCalvo_estiloVanGogh\contenidoCalvo_estiloVanGogh.jpg
+[2026-05-29 00:03:16] === [7/24] contenido=contenidoUnalMed.png  estilo=estiloFractal.png ===
+[2026-05-29 00:03:54] [OK] 0:00:38 -> data\output-images\combined_contenidoUnalMed_estiloFractal\contenidoUnalMed_estiloFractal.jpg
+[2026-05-29 00:03:54] === [8/24] contenido=contenidoUnalMed.png  estilo=estiloVanGogh.jpg ===
+[2026-05-29 00:04:33] [OK] 0:00:38 -> data\output-images\combined_contenidoUnalMed_estiloVanGogh\contenidoUnalMed_estiloVanGogh.jpg
+[2026-05-29 00:04:33] === [9/24] contenido=contenidoNube.jpeg  estilo=estiloEvangelion.png ===
+[2026-05-29 00:05:01] [OK] 0:00:28 -> data\output-images\combined_contenidoNube_estiloEvangelion\contenidoNube_estiloEvangelion.jpg
+[2026-05-29 00:05:01] === [10/24] contenido=contenidoNube.jpeg  estilo=estiloVanGogh.jpg ===
+[2026-05-29 00:05:30] [OK] 0:00:28 -> data\output-images\combined_contenidoNube_estiloVanGogh\contenidoNube_estiloVanGogh.jpg
+[2026-05-29 00:05:30] === [11/24] contenido=contenidoNube.jpeg  estilo=estiloWreck.png ===
+[2026-05-29 00:05:59] [OK] 0:00:29 -> data\output-images\combined_contenidoNube_estiloWreck\contenidoNube_estiloWreck.jpg
+[2026-05-29 00:05:59] === [12/24] contenido=contenidoNube.jpeg  estilo=estiloFractal.png ===
+[2026-05-29 00:06:29] [OK] 0:00:29 -> data\output-images\combined_contenidoNube_estiloFractal\contenidoNube_estiloFractal.jpg
+[2026-05-29 00:06:29] === [13/24] contenido=contenidoColombia.jpeg  estilo=estiloVanGogh.jpg ===
+[2026-05-29 00:07:02] [OK] 0:00:32 -> data\output-images\combined_contenidoColombia_estiloVanGogh\contenidoColombia_estiloVanGogh.jpg
+[2026-05-29 00:07:02] === [14/24] contenido=contenidoColombia.jpeg  estilo=s3.jpg ===
+[2026-05-29 00:07:34] [OK] 0:00:32 -> data\output-images\combined_contenidoColombia_s3\contenidoColombia_s3.jpg
+[2026-05-29 00:07:34] === [15/24] contenido=contenidoMonet.png  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:07:55] [OK] 0:00:20 -> data\output-images\combined_contenidoMonet_estiloDibujo\contenidoMonet_estiloDibujo.jpg
+[2026-05-29 00:07:55] === [16/24] contenido=contenidoMonet.png  estilo=estiloCubismo.png ===
+[2026-05-29 00:08:24] [OK] 0:00:29 -> data\output-images\combined_contenidoMonet_estiloCubismo\contenidoMonet_estiloCubismo.jpg
+[2026-05-29 00:08:24] === [17/24] contenido=contenidoMonet.png  estilo=estiloVanGogh.jpg ===
+[2026-05-29 00:08:54] [OK] 0:00:29 -> data\output-images\combined_contenidoMonet_estiloVanGogh\contenidoMonet_estiloVanGogh.jpg
+[2026-05-29 00:08:54] === [18/24] contenido=contenidoArbolRosa.jpeg  estilo=estiloFractal.png ===
+[2026-05-29 00:09:23] [OK] 0:00:29 -> data\output-images\combined_contenidoArbolRosa_estiloFractal\contenidoArbolRosa_estiloFractal.jpg
+[2026-05-29 00:09:23] === [19/24] contenido=contenidoArbolRosa.jpeg  estilo=estiloVanGogh.jpg ===
+[2026-05-29 00:09:52] [OK] 0:00:29 -> data\output-images\combined_contenidoArbolRosa_estiloVanGogh\contenidoArbolRosa_estiloVanGogh.jpg
+[2026-05-29 00:09:52] === [20/24] contenido=contenidoATARRAIA.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:10:26] [OK] 0:00:33 -> data\output-images\combined_contenidoATARRAIA_estiloDibujo\contenidoATARRAIA_estiloDibujo.jpg
+[2026-05-29 00:10:26] === [21/24] contenido=contenidoATARRAIA.jpeg  estilo=estiloCubismo.png ===
+[2026-05-29 00:10:59] [OK] 0:00:32 -> data\output-images\combined_contenidoATARRAIA_estiloCubismo\contenidoATARRAIA_estiloCubismo.jpg
+[2026-05-29 00:10:59] === [22/24] contenido=contenidoATARRAIA.jpeg  estilo=s3.jpg ===
+[2026-05-29 00:11:31] [OK] 0:00:32 -> data\output-images\combined_contenidoATARRAIA_s3\contenidoATARRAIA_s3.jpg
+[2026-05-29 00:11:31] === [23/24] contenido=c1.jpg  estilo=estiloFractal.png ===
+[2026-05-29 00:12:04] [OK] 0:00:32 -> data\output-images\combined_c1_estiloFractal\c1_estiloFractal.jpg
+[2026-05-29 00:12:04] === [24/24] contenido=c1.jpg  estilo=estiloMickey.webp ===
+[2026-05-29 00:12:37] [OK] 0:00:33 -> data\output-images\combined_c1_estiloMickey\c1_estiloMickey.jpg
+[2026-05-29 00:12:37] ############### BATCH DONE - 0:12:04 - ok=24 fail=0 skip=0 warn=0 timeout=0 ###############
+[2026-05-29 00:17:39] ############### BATCH START - 24 parejas ###############
+[2026-05-29 00:17:39] === [1/24] contenido=contenidoPetiteJuana.jpeg  estilo=estiloCubismo.png ===
+[2026-05-29 00:17:58] ############### BATCH START - 12 parejas ###############
+[2026-05-29 00:17:58] === [1/12] contenido=contenidoAlemania.jpg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:18:05] [WARN] exit 0 pero no encontre la salida esperada (contenidoAlemania_estiloDibujo.jpg); revisa 001_contenidoAlemania__estiloDibujo.log
+[2026-05-29 00:18:05] === [2/12] contenido=contenidoArbol46.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:18:44] [OK] 0:00:39 -> data\output-images\combined_contenidoArbol46_estiloDibujo\contenidoArbol46_estiloDibujo.jpg
+[2026-05-29 00:18:44] === [3/12] contenido=contenidoArbolRosa.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:19:13] [OK] 0:00:29 -> data\output-images\combined_contenidoArbolRosa_estiloDibujo\contenidoArbolRosa_estiloDibujo.jpg
+[2026-05-29 00:19:13] === [4/12] contenido=contenidoATARRAIA.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:19:47] [OK] 0:00:33 -> data\output-images\combined_contenidoATARRAIA_estiloDibujo\contenidoATARRAIA_estiloDibujo.jpg
+[2026-05-29 00:19:47] === [5/12] contenido=contenidoCalvo.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:20:16] [OK] 0:00:29 -> data\output-images\combined_contenidoCalvo_estiloDibujo\contenidoCalvo_estiloDibujo.jpg
+[2026-05-29 00:20:16] === [6/12] contenido=contenidoColombia.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:20:39] [OK] 0:00:22 -> data\output-images\combined_contenidoColombia_estiloDibujo\contenidoColombia_estiloDibujo.jpg
+[2026-05-29 00:20:39] === [7/12] contenido=contenidoMonet.png  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:20:59] [OK] 0:00:20 -> data\output-images\combined_contenidoMonet_estiloDibujo\contenidoMonet_estiloDibujo.jpg
+[2026-05-29 00:20:59] === [8/12] contenido=contenidoMontana.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:21:39] [OK] 0:00:39 -> data\output-images\combined_contenidoMontana_estiloDibujo\contenidoMontana_estiloDibujo.jpg
+[2026-05-29 00:21:39] === [9/12] contenido=contenidoNube.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:22:08] [OK] 0:00:29 -> data\output-images\combined_contenidoNube_estiloDibujo\contenidoNube_estiloDibujo.jpg
+[2026-05-29 00:22:08] === [10/12] contenido=contenidoPetiteJuana.jpeg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:22:37] [OK] 0:00:28 -> data\output-images\combined_contenidoPetiteJuana_estiloDibujo\contenidoPetiteJuana_estiloDibujo.jpg
+[2026-05-29 00:22:37] === [11/12] contenido=contenidoUnalMed.png  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:23:16] [OK] 0:00:39 -> data\output-images\combined_contenidoUnalMed_estiloDibujo\contenidoUnalMed_estiloDibujo.jpg
+[2026-05-29 00:23:16] === [12/12] contenido=c1.jpg  estilo=estiloDibujo.jpeg ===
+[2026-05-29 00:23:22] [WARN] exit 0 pero no encontre la salida esperada (c1_estiloDibujo.jpg); revisa 012_c1__estiloDibujo.log
+[2026-05-29 00:23:22] ############### BATCH DONE - 0:05:24 - ok=10 fail=0 skip=0 warn=2 timeout=0 ###############

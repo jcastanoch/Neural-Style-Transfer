@@ -1,0 +1,69 @@
+C:\Users\user\AppData\Roaming\Python\Python313\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+C:\Users\user\AppData\Roaming\Python\Python313\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=VGG19_Weights.IMAGENET1K_V1`. You can also use `weights=VGG19_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Using VGG19 in the optimization procedure.
+L-BFGS | iteration: 000, total loss=7411695139946496.0000, content_loss=      0.0000, style loss=7411695000000000.0000, tv loss=4232183.0000
+L-BFGS | iteration: 001, total loss=7411676886335488.0000, content_loss=     40.8743, style loss=7411677000000000.0000, tv loss=4232184.0000
+L-BFGS | iteration: 002, total loss=7411636084146176.0000, content_loss=     53.1040, style loss=7411636200000000.0000, tv loss=4232189.0000
+L-BFGS | iteration: 003, total loss=7411462137970688.0000, content_loss=     69.5241, style loss=7411462200000000.0000, tv loss=4232217.0000
+L-BFGS | iteration: 004, total loss=7410431882690560.0000, content_loss=    158.6833, style loss=7410432000000000.0000, tv loss=4232371.0000
+L-BFGS | iteration: 005, total loss=7405180211429376.0000, content_loss=   1700.3937, style loss=7405180200000000.0000, tv loss=4233218.0000
+L-BFGS | iteration: 006, total loss=7376168244215808.0000, content_loss=  47581.1809, style loss=7376168400000000.0000, tv loss=4237880.0000
+L-BFGS | iteration: 007, total loss=7221777054826496.0000, content_loss=1343979.5494, style loss=7221777000000000.0000, tv loss=4263554.0000
+L-BFGS | iteration: 008, total loss=6525699758227456.0000, content_loss=26211282.3486, style loss=6525699600000000.0000, tv loss=4415048.0000
+L-BFGS | iteration: 009, total loss=4292009674145792.0000, content_loss=251433886.7188, style loss=4292009400000000.0000, tv loss=5575727.0000
+L-BFGS | iteration: 010, total loss=3093863048675328.0000, content_loss=650614599.6094, style loss=3093862500000000.0000, tv loss=7372094.0000
+L-BFGS | iteration: 011, total loss=2235453302374400.0000, content_loss=563923828.1250, style loss=2235452700000000.0000, tv loss=7521926.0000
+L-BFGS | iteration: 012, total loss=1867424668319744.0000, content_loss=643876562.5000, style loss=1867423950000000.0000, tv loss=7806119.0000
+L-BFGS | iteration: 013, total loss=1430289742036992.0000, content_loss=827760644.5312, style loss=1430289000000000.0000, tv loss=8538202.0000
+L-BFGS | iteration: 014, total loss=1148415870238720.0000, content_loss=816450000.0000, style loss=1148415000000000.0000, tv loss=8797791.0000
+L-BFGS | iteration: 015, total loss=994149838880768.0000, content_loss=959777539.0625, style loss=994148925000000.0000, tv loss=9220068.0000
+L-BFGS | iteration: 016, total loss=870000990617600.0000, content_loss=934577539.0625, style loss=870000075000000.0000, tv loss=9177192.0000
+L-BFGS | iteration: 017, total loss=750219855659008.0000, content_loss=935543066.4062, style loss=750218925000000.0000, tv loss=9311023.0000
+L-BFGS | iteration: 018, total loss=638617613500416.0000, content_loss=1027866210.9375, style loss=638616600000000.0000, tv loss=9636067.0000
+L-BFGS | iteration: 019, total loss=578203328446464.0000, content_loss=965151269.5312, style loss=578202375000000.0000, tv loss=9775352.0000
+L-BFGS | iteration: 020, total loss=518091100389376.0000, content_loss=1042409667.9688, style loss=518090062500000.0000, tv loss=9904870.0000
+L-BFGS | iteration: 021, total loss=487051640176640.0000, content_loss=1061350683.5938, style loss=487050562500000.0000, tv loss=9921644.0000
+L-BFGS | iteration: 022, total loss=442720598360064.0000, content_loss=1056395898.4375, style loss=442719562500000.0000, tv loss=10168910.0000
+L-BFGS | iteration: 023, total loss=400807522467840.0000, content_loss=1070781445.3125, style loss=400806450000000.0000, tv loss=10142828.0000
+L-BFGS | iteration: 024, total loss=376023447240704.0000, content_loss=1120494531.2500, style loss=376022325000000.0000, tv loss=10365554.0000
+L-BFGS | iteration: 025, total loss=351874926510080.0000, content_loss=1106900976.5625, style loss=351873825000000.0000, tv loss=10396602.0000
+L-BFGS | iteration: 026, total loss=321468034449408.0000, content_loss=1112920507.8125, style loss=321466912500000.0000, tv loss=10456637.0000
+L-BFGS | iteration: 027, total loss=298716921593856.0000, content_loss=1137873730.4688, style loss=298715793750000.0000, tv loss=10634564.0000
+L-BFGS | iteration: 028, total loss=276641242677248.0000, content_loss=1142918750.0000, style loss=276640087500000.0000, tv loss=10718604.0000
+L-BFGS | iteration: 029, total loss=259546366869504.0000, content_loss=1158922363.2812, style loss=259545187500000.0000, tv loss=10860637.0000
+L-BFGS | iteration: 030, total loss=244836405870592.0000, content_loss=1173044531.2500, style loss=244835212500000.0000, tv loss=10982674.0000
+L-BFGS | iteration: 031, total loss=233300476035072.0000, content_loss=1165710644.5312, style loss=233299293750000.0000, tv loss=10946143.0000
+L-BFGS | iteration: 032, total loss=225506385461248.0000, content_loss=1191509472.6562, style loss=225505181250000.0000, tv loss=11132805.0000
+L-BFGS | iteration: 033, total loss=212250908426240.0000, content_loss=1195073339.8438, style loss=212249700000000.0000, tv loss=11016816.0000
+L-BFGS | iteration: 034, total loss=205228704006144.0000, content_loss=1166626660.1562, style loss=205227506250000.0000, tv loss=11121200.0000
+L-BFGS | iteration: 035, total loss=195367475871744.0000, content_loss=1191616992.1875, style loss=195366262500000.0000, tv loss=11195704.0000
+L-BFGS | iteration: 036, total loss=185776277028864.0000, content_loss=1214120898.4375, style loss=185775056250000.0000, tv loss=11278388.0000
+L-BFGS | iteration: 037, total loss=178126034305024.0000, content_loss=1215437402.3438, style loss=178124812500000.0000, tv loss=11291964.0000
+L-BFGS | iteration: 038, total loss=168308494041088.0000, content_loss=1219985449.2188, style loss=168307256250000.0000, tv loss=11419378.0000
+L-BFGS | iteration: 039, total loss=157895631044608.0000, content_loss=1245382910.1562, style loss=157894368750000.0000, tv loss=11510336.0000
+L-BFGS | iteration: 040, total loss=152575928172544.0000, content_loss=1222685253.9062, style loss=152574693750000.0000, tv loss=11551741.0000
+L-BFGS | iteration: 041, total loss=148248144642048.0000, content_loss=1231228125.0000, style loss=148246903125000.0000, tv loss=11529370.0000
+L-BFGS | iteration: 042, total loss=143283397328896.0000, content_loss=1244943554.6875, style loss=143282146875000.0000, tv loss=11741920.0000
+L-BFGS | iteration: 043, total loss=137616901013504.0000, content_loss=1245253906.2500, style loss=137615653125000.0000, tv loss=11645100.0000
+L-BFGS | iteration: 044, total loss=134379376476160.0000, content_loss=1250954980.4688, style loss=134378118750000.0000, tv loss=11654144.0000
+L-BFGS | iteration: 045, total loss=127629675986944.0000, content_loss=1249624414.0625, style loss=127628418750000.0000, tv loss=11766609.0000
+L-BFGS | iteration: 046, total loss=121286294503424.0000, content_loss=1269678417.9688, style loss=121285021875000.0000, tv loss=11823694.0000
+L-BFGS | iteration: 047, total loss=117259552948224.0000, content_loss=1252613671.8750, style loss=117258290625000.0000, tv loss=11827803.0000
+L-BFGS | iteration: 048, total loss=114528431898624.0000, content_loss=1258372851.5625, style loss=114527165625000.0000, tv loss=11793991.0000
+L-BFGS | iteration: 049, total loss=110705424465920.0000, content_loss=1265226171.8750, style loss=110704153125000.0000, tv loss=11910111.0000
+Traceback (most recent call last):
+  File "D:\Documentos\Nacho\ATARRAIAredesNeuronales\NST-repoDeInternet\Neural-Style-Transfer\_nst_batch_tmp.py", line 199, in <module>
+    results_path = neural_style_transfer(optimization_config)
+  File "D:\Documentos\Nacho\ATARRAIAredesNeuronales\NST-repoDeInternet\Neural-Style-Transfer\_nst_batch_tmp.py", line 180, in neural_style_transfer
+    optimizer.step(closure)
+    ~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\torch\optim\optimizer.py", line 535, in wrapper
+    out = func(*args, **kwargs)
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\torch\utils\_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\torch\optim\lbfgs.py", line 435, in step
+    r.add_(old_stps[i], alpha=al[i] - be_i)
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
